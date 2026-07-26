@@ -10,16 +10,6 @@
     "bytes": 403480
   },
   {
-    "slug": "ceviz",
-    "query": "manual",
-    "title": "File:Walnuts - whole and open with halved kernel.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Walnuts_-_whole_and_open_with_halved_kernel.jpg/960px-Walnuts_-_whole_and_open_with_halved_kernel.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Walnuts_-_whole_and_open_with_halved_kernel.jpg",
-    "license": "CC BY-SA 4.0",
-    "artist": "Ivar Leidus",
-    "bytes": 106731
-  },
-  {
     "slug": "ceviz-ici",
     "query": "walnut kernels",
     "title": "File:White walnut kernels.jpg",
@@ -28,46 +18,6 @@
     "license": "CC0",
     "artist": "Fumikas Sagisavas",
     "bytes": 514555
-  },
-  {
-    "slug": "zeytinyagi",
-    "query": "manual",
-    "title": "File:Olive Oil (Unsplash).jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Olive_Oil_%28Unsplash%29.jpg/960px-Olive_Oil_%28Unsplash%29.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Olive_Oil_(Unsplash).jpg",
-    "license": "CC0",
-    "artist": "Roberta Sorge robertina",
-    "bytes": 155464
-  },
-  {
-    "slug": "hashas",
-    "query": "manual",
-    "title": "File:Poppy seeds.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Poppy_seeds.jpg/960px-Poppy_seeds.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Poppy_seeds.jpg",
-    "license": "Public domain",
-    "artist": "Odedr",
-    "bytes": 298306
-  },
-  {
-    "slug": "hashas-yagi",
-    "query": "manual",
-    "title": "File:Poppy seeds close up.jpeg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Poppy_seeds_close_up.jpeg/960px-Poppy_seeds_close_up.jpeg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Poppy_seeds_close_up.jpeg",
-    "license": "CC BY-SA 4.0",
-    "artist": "Sanjay_ach",
-    "bytes": 256065
-  },
-  {
-    "slug": "corek-otu-yagi",
-    "query": "Nigella sativa seeds",
-    "title": "File:Nigella sativa MHNT.BOT.2015.34.22.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nigella_sativa_MHNT.BOT.2015.34.22.jpg/960px-Nigella_sativa_MHNT.BOT.2015.34.22.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Nigella_sativa_MHNT.BOT.2015.34.22.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Roger Culos",
-    "bytes": 54919
   },
   {
     "slug": "metsu",
