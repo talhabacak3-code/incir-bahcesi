@@ -1,35 +1,5 @@
 [
   {
-    "slug": "incir",
-    "query": "dried figs",
-    "title": "File:Dried figs (2).jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dried_figs_%282%29.jpg/960px-Dried_figs_%282%29.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Dried_figs_(2).jpg",
-    "license": "CC0",
-    "artist": "Fumikas Sagisavas",
-    "bytes": 403480
-  },
-  {
-    "slug": "ceviz-ici",
-    "query": "walnut kernels",
-    "title": "File:White walnut kernels.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/White_walnut_kernels.jpg/960px-White_walnut_kernels.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:White_walnut_kernels.jpg",
-    "license": "CC0",
-    "artist": "Fumikas Sagisavas",
-    "bytes": 514555
-  },
-  {
-    "slug": "metsu",
-    "query": "apple cider",
-    "title": "File:Cider and apple juice.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cider_and_apple_juice.jpg/960px-Cider_and_apple_juice.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Cider_and_apple_juice.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Unknown",
-    "bytes": 113614
-  },
-  {
     "slug": "kuru-uzum",
     "query": "raisins",
     "title": "File:Raisins 01.jpg",
@@ -100,26 +70,6 @@
     "bytes": 103175
   },
   {
-    "slug": "tarhana",
-    "query": "tarhana",
-    "title": "File:Two kinds of tarhana.JPG",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Two_kinds_of_tarhana.JPG/960px-Two_kinds_of_tarhana.JPG",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Two_kinds_of_tarhana.JPG",
-    "license": "CC BY-SA 3.0",
-    "artist": "Badseed",
-    "bytes": 185496
-  },
-  {
-    "slug": "afyon-ekmegi",
-    "query": "manual",
-    "title": "File:Home made sour dough bread.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Home_made_sour_dough_bread.jpg/960px-Home_made_sour_dough_bread.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Home_made_sour_dough_bread.jpg",
-    "license": "CC BY-SA 4.0",
-    "artist": "Tomascastelazo",
-    "bytes": 286089
-  },
-  {
     "slug": "yaprak",
     "query": "manual",
     "title": "File:Young grapevine leaves 1.jpg",
@@ -128,16 +78,6 @@
     "license": "CC0",
     "artist": "W.carter",
     "bytes": 203161
-  },
-  {
-    "slug": "meyve-ozleri",
-    "query": "grape molasses",
-    "title": "File:Honey arrope flask.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/16/Honey_arrope_flask.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Honey_arrope_flask.jpg",
-    "license": "Public domain",
-    "artist": "Abestrobi",
-    "bytes": 182108
   },
   {
     "slug": "kurular",
