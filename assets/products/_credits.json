@@ -50,16 +50,6 @@
     "bytes": 298306
   },
   {
-    "slug": "hashas-ezmesi",
-    "query": "manual",
-    "title": "File:Mohn filling 01.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mohn_filling_01.jpg/960px-Mohn_filling_01.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Mohn_filling_01.jpg",
-    "license": "CC BY-SA 4.0",
-    "artist": "Yallayallaletsgo",
-    "bytes": 179801
-  },
-  {
     "slug": "hashas-yagi",
     "query": "manual",
     "title": "File:Poppy seeds close up.jpeg",
@@ -178,26 +168,6 @@
     "license": "CC BY-SA 4.0",
     "artist": "Tomascastelazo",
     "bytes": 286089
-  },
-  {
-    "slug": "sucuk",
-    "query": "sucuk",
-    "title": "File:Sucuk-2.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sucuk-2.jpg/960px-Sucuk-2.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Sucuk-2.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "No machine-readable author provided. Rainer Zenz assumed (based on copyright cla",
-    "bytes": 136048
-  },
-  {
-    "slug": "kaymak",
-    "query": "kaymak",
-    "title": "File:Kaymak in Turkey.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kaymak_in_Turkey.jpg/960px-Kaymak_in_Turkey.jpg",
-    "descUrl": "https://commons.wikimedia.org/wiki/File:Kaymak_in_Turkey.jpg",
-    "license": "CC BY-SA 4.0",
-    "artist": "E4024",
-    "bytes": 138769
   },
   {
     "slug": "yaprak",
