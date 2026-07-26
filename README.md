@@ -1,6 +1,6 @@
 # İncir Bahçesi 🌿
 
-Afyonkarahisar'ın bereketli topraklarından doğal yöresel ürünler satan **İncir Bahçesi** firmasının tanıtım web sitesi.
+Anadolu'nun bereketli topraklarından doğal yöresel ürünler satan **İncir Bahçesi** firmasının tanıtım web sitesi (Afyonkarahisar merkezli).
 
 Saf **HTML + CSS + JavaScript** ile geliştirilmiştir; harici bağımlılık (CDN, framework) yoktur — çevrimdışı da düzgün çalışır.
 

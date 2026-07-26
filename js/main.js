@@ -18,14 +18,16 @@
   /* ---------- Ürün listesi ---------- */
   var IMG = 'assets/products/';
   var products = [
-    { name: 'İncir',              emoji: '🫐', tag: 'Tatlı ve doğal kuru incir',      img: IMG + 'incir.webp' },
+    { name: 'Aydın Nazilli İnciri', emoji: '🫐', tag: 'Meşhur Aydın Nazilli kuru inciri', img: IMG + 'incir.webp' },
+    { name: 'Ballı Dağ İnciri',   emoji: '🫐', tag: 'Doğal, ballı dağ inciri',           img: IMG + 'balli-dag-inciri.webp' },
     { name: 'İnce Kabuk Yayla Cevizi', emoji: '🌰', tag: 'Dolgun içli, ince kabuklu yayla cevizi', img: IMG + 'ceviz.webp' },
     { name: 'Ceviz İçi',          emoji: '🌰', tag: 'Taze çıkarılmış ceviz içi',       img: IMG + 'ceviz-ici.webp' },
     { name: 'Zeytinyağı',         emoji: '🫒', tag: 'Soğuk sıkım naturel sızma',       img: IMG + 'zeytinyagi.webp' },
     { name: 'Haşhaş',             emoji: '🌼', tag: 'Afyon\'un meşhur haşhaşı',        img: IMG + 'hashas.webp' },
-    { name: 'Haşhaş Ezmesi',      emoji: '🥣', tag: 'Geleneksel yoğun ezme',           img: IMG + 'hashas-ezmesi.webp' },
-    { name: 'Haşhaş Yağı',        emoji: '🧴', tag: 'Katkısız haşhaş yağı',            img: IMG + 'hashas-yagi.webp' },
-    { name: 'Çörek Otu Yağı',     emoji: '🧴', tag: 'Doğal çörek otu yağı',           img: IMG + 'corek-otu-yagi.webp' },
+    { name: 'Haşhaş Ezmesi',      emoji: '🥣', tag: 'Doğal taşta çekilmiş haşhaş ezmesi', img: IMG + 'hashas-ezmesi.webp' },
+    { name: 'Haşhaş Yağı',        emoji: '🧴', tag: 'Soğuk sıkım haşhaş yağı',          img: IMG + 'hashas-yagi.webp' },
+    { name: 'Çörek Otu Yağı',     emoji: '🧴', tag: 'Soğuk sıkım çörek otu yağı',      img: IMG + 'corek-otu-yagi.webp' },
+    { name: 'Kantaron Yağı',      emoji: '🌿', tag: 'Soğuk sıkım aromatik kantaron yağı', img: IMG + 'kantaron-yagi.webp' },
     { name: 'Metsu',              emoji: '🍎', tag: 'Fermente elma içeceği',           img: IMG + 'metsu.webp' },
     { name: 'Kuru Üzüm',          emoji: '🍇', tag: 'Çekirdeksiz kuru üzüm',           img: IMG + 'kuru-uzum.webp' },
     { name: 'Kayısı',             emoji: '🍑', tag: 'Güneşte kurutulmuş kayısı',       img: IMG + 'kayisi.webp' },
