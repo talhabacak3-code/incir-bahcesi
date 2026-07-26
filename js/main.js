@@ -16,30 +16,31 @@
   }
 
   /* ---------- Ürün listesi ---------- */
+  var IMG = 'assets/products/';
   var products = [
-    { name: 'İncir',              emoji: '🫐', tag: 'Tatlı ve doğal kuru incir' },
-    { name: 'Ceviz',              emoji: '🌰', tag: 'Dolgun içli Afyon cevizi' },
-    { name: 'Ceviz İçi',          emoji: '🌰', tag: 'Taze çıkarılmış ceviz içi' },
-    { name: 'Zeytinyağı',         emoji: '🫒', tag: 'Soğuk sıkım naturel sızma' },
-    { name: 'Haşhaş',             emoji: '🌼', tag: 'Afyon\'un meşhur haşhaşı' },
-    { name: 'Haşhaş Ezmesi',      emoji: '🥣', tag: 'Geleneksel yoğun ezme' },
-    { name: 'Haşhaş Yağı',        emoji: '🧴', tag: 'Katkısız haşhaş yağı' },
-    { name: 'Çörek Otu Yağı',     emoji: '🧴', tag: 'Doğal çörek otu yağı' },
-    { name: 'Metsu',              emoji: '🍎', tag: 'Fermente elma içeceği' },
-    { name: 'Kuru Üzüm',          emoji: '🍇', tag: 'Çekirdeksiz kuru üzüm' },
-    { name: 'Kayısı',             emoji: '🍑', tag: 'Güneşte kurutulmuş kayısı' },
-    { name: 'Kuru Erik',          emoji: '🟣', tag: 'Doğal kuru erik' },
-    { name: 'Dut Kurusu',         emoji: '🌾', tag: 'Beyaz dut kurusu' },
-    { name: 'İğde',               emoji: '🟠', tag: 'Yöresel iğde' },
-    { name: 'İğde Tozu',          emoji: '🥄', tag: 'Öğütülmüş iğde tozu' },
-    { name: 'Hünnap',             emoji: '🔴', tag: 'Kurutulmuş hünnap' },
-    { name: 'Tarhana',            emoji: '🥣', tag: 'Ev yapımı tarhana' },
-    { name: 'Afyon Ekmeği',       emoji: '🍞', tag: 'Meşhur Afyon ekmeği' },
-    { name: 'Sucuk',              emoji: '🥩', tag: 'Afyon sucuğu' },
-    { name: 'Kaymak',             emoji: '🥛', tag: 'Meşhur Afyon kaymağı' },
-    { name: 'Yaprak',             emoji: '🍃', tag: 'Salamura asma yaprağı' },
-    { name: 'Kadir Zade Meyve Özleri', emoji: '🍯', tag: 'Doğal meyve özleri' },
-    { name: 'Kurular',            emoji: '🧺', tag: 'Çeşitli kuru gıdalar' }
+    { name: 'İncir',              emoji: '🫐', tag: 'Tatlı ve doğal kuru incir',      img: IMG + 'incir.jpg' },
+    { name: 'Ceviz',              emoji: '🌰', tag: 'Dolgun içli Afyon cevizi',        img: IMG + 'ceviz.jpg' },
+    { name: 'Ceviz İçi',          emoji: '🌰', tag: 'Taze çıkarılmış ceviz içi',       img: IMG + 'ceviz-ici.jpg' },
+    { name: 'Zeytinyağı',         emoji: '🫒', tag: 'Soğuk sıkım naturel sızma',       img: IMG + 'zeytinyagi.jpg' },
+    { name: 'Haşhaş',             emoji: '🌼', tag: 'Afyon\'un meşhur haşhaşı',        img: IMG + 'hashas.jpg' },
+    { name: 'Haşhaş Ezmesi',      emoji: '🥣', tag: 'Geleneksel yoğun ezme',           img: IMG + 'hashas-ezmesi.jpg' },
+    { name: 'Haşhaş Yağı',        emoji: '🧴', tag: 'Katkısız haşhaş yağı',            img: IMG + 'hashas-yagi.jpg' },
+    { name: 'Çörek Otu Yağı',     emoji: '🧴', tag: 'Doğal çörek otu yağı',           img: IMG + 'corek-otu-yagi.jpg' },
+    { name: 'Metsu',              emoji: '🍎', tag: 'Fermente elma içeceği',           img: IMG + 'metsu.jpg' },
+    { name: 'Kuru Üzüm',          emoji: '🍇', tag: 'Çekirdeksiz kuru üzüm',           img: IMG + 'kuru-uzum.jpg' },
+    { name: 'Kayısı',             emoji: '🍑', tag: 'Güneşte kurutulmuş kayısı',       img: IMG + 'kayisi.jpg' },
+    { name: 'Kuru Erik',          emoji: '🟣', tag: 'Doğal kuru erik',                img: IMG + 'kuru-erik.jpg' },
+    { name: 'Dut Kurusu',         emoji: '🌾', tag: 'Beyaz dut kurusu',               img: IMG + 'dut-kurusu.jpg' },
+    { name: 'İğde',               emoji: '🟠', tag: 'Yöresel iğde',                    img: IMG + 'igde.jpg' },
+    { name: 'İğde Tozu',          emoji: '🥄', tag: 'Öğütülmüş iğde tozu',            img: IMG + 'igde-tozu.jpg' },
+    { name: 'Hünnap',             emoji: '🔴', tag: 'Kurutulmuş hünnap',              img: IMG + 'hunnap.jpg' },
+    { name: 'Tarhana',            emoji: '🥣', tag: 'Ev yapımı tarhana',              img: IMG + 'tarhana.jpg' },
+    { name: 'Afyon Ekmeği',       emoji: '🍞', tag: 'Meşhur Afyon ekmeği',            img: IMG + 'afyon-ekmegi.jpg' },
+    { name: 'Sucuk',              emoji: '🥩', tag: 'Afyon sucuğu',                    img: IMG + 'sucuk.jpg' },
+    { name: 'Kaymak',             emoji: '🥛', tag: 'Meşhur Afyon kaymağı',           img: IMG + 'kaymak.jpg' },
+    { name: 'Yaprak',             emoji: '🍃', tag: 'Taze asma yaprağı',              img: IMG + 'yaprak.jpg' },
+    { name: 'Kadir Zade Meyve Özleri', emoji: '🍯', tag: 'Doğal meyve özleri',        img: IMG + 'meyve-ozleri.jpg' },
+    { name: 'Kurular',            emoji: '🧺', tag: 'Çeşitli kuru gıdalar',           img: IMG + 'kurular.jpg' }
   ];
 
   /* ---------- Ürün kartlarını oluştur ---------- */
@@ -50,7 +51,10 @@
       var p = products[i];
       html +=
         '<article class="product-card reveal" data-name="' + p.name.toLowerCase() + '">' +
-          '<div class="product-emoji" aria-hidden="true">' + p.emoji + '</div>' +
+          '<div class="product-media">' +
+            '<span class="product-emoji" aria-hidden="true">' + p.emoji + '</span>' +
+            '<img class="product-img" src="' + p.img + '" alt="' + p.name + '" loading="lazy" onerror="this.remove()">' +
+          '</div>' +
           '<h3>' + p.name + '</h3>' +
           '<p class="p-tag">' + p.tag + '</p>' +
           '<a class="btn btn-whatsapp order-btn" href="' + waLink(p.name) + '" target="_blank" rel="noopener">Sipariş Ver</a>' +
