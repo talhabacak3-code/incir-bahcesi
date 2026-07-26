@@ -1,0 +1,7 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Local tooling (makine/oturuma özel önizleme ayarı)
+.claude/
