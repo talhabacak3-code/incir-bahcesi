@@ -19,7 +19,7 @@
   var IMG = 'assets/products/';
   var products = [
     { name: 'İncir',              emoji: '🫐', tag: 'Tatlı ve doğal kuru incir',      img: IMG + 'incir.webp' },
-    { name: 'Ceviz',              emoji: '🌰', tag: 'Dolgun içli Afyon cevizi',        img: IMG + 'ceviz.webp' },
+    { name: 'İnce Kabuk Yayla Cevizi', emoji: '🌰', tag: 'Dolgun içli, ince kabuklu yayla cevizi', img: IMG + 'ceviz.webp' },
     { name: 'Ceviz İçi',          emoji: '🌰', tag: 'Taze çıkarılmış ceviz içi',       img: IMG + 'ceviz-ici.webp' },
     { name: 'Zeytinyağı',         emoji: '🫒', tag: 'Soğuk sıkım naturel sızma',       img: IMG + 'zeytinyagi.webp' },
     { name: 'Haşhaş',             emoji: '🌼', tag: 'Afyon\'un meşhur haşhaşı',        img: IMG + 'hashas.webp' },
